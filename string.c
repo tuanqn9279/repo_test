@@ -4,6 +4,7 @@ int my_strlen(char *s)
 {
    char *p = s;
 
+   
    while (*p)
       ++p;
 
